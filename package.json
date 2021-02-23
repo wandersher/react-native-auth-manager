@@ -1,7 +1,7 @@
 {
   "name": "react-native-auth-manager",
   "title": "React Native Auth Manager",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "files": [
