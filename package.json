@@ -1,0 +1,52 @@
+{
+  "name": "react-native-auth-manager",
+  "title": "React Native Auth Manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "react-native-auth-manager.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandersher/react-native-auth-manager.git",
+    "baseUrl": "https://github.com/wandersher/react-native-auth-manager"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Nazar Vaskiv",
+    "email": "vaskiv27@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "@invertase/react-native-apple-authentication": "^2.1.0",
+    "@react-native-community/google-signin": "^5.0.0",
+    "@react-native-firebase/app": "^10.8.1",
+    "@react-native-firebase/auth": "^10.8.1",
+    "@react-native-firebase/storage": "^10.8.1",
+    "react-native-fbsdk": "^3.0.0"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5",
+    "@invertase/react-native-apple-authentication": "^2.1.0",
+    "@react-native-community/google-signin": "^5.0.0",
+    "@react-native-firebase/app": "^10.8.1",
+    "@react-native-firebase/auth": "^10.8.1",
+    "@react-native-firebase/storage": "^10.8.1",
+    "react-native-fbsdk": "^3.0.0"
+  }
+}
